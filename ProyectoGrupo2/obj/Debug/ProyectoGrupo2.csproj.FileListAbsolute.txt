@@ -1,0 +1,41 @@
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe.config
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.pdb
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.AssemblyReference.cache
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.SuggestedBindingRedirects.cache
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form1.resources
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form2.resources
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Properties.Resources.resources
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.GenerateResource.cache
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.CoreCompileInputs.cache
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.exe
+D:\2DAM\DesarrolloInterfaces\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.pdb
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe.config
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.pdb
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.AssemblyReference.cache
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form1.resources
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form2.resources
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Properties.Resources.resources
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.GenerateResource.cache
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.CoreCompileInputs.cache
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.exe
+C:\Users\avr50\source\repos\ProyectoGrupo2\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.pdb
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form1.resources
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form2.resources
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Properties.Resources.resources
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.GenerateResource.cache
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.exe
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.pdb
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe.config
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.pdb
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.Form6.resources
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.exe.manifest
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\bin\Debug\ProyectoGrupo2.application
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.exe.manifest
+C:\Users\isaac\Documents\Visual Studio 2022\Proyectos\BBDD\ProyectoGrupo2-main\ProyectoGrupo2\obj\Debug\ProyectoGrupo2.application
